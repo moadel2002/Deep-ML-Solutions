@@ -1,4 +1,4 @@
-# Deep-ML Challenge Solutions
+# Deep-ML Solutions
 
 This repository contains my solutions to various machine learning challenges hosted on [Deep-ML.com](https://deep-ml.com). Each problem is listed with a link to the challenge and a link to the corresponding solution in this repository.
 
