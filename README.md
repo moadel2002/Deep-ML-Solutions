@@ -12,3 +12,4 @@ This repository contains my solutions to various machine learning challenges hos
 | Linear Regression Using Normal Equation | [Challenge](https://www.deep-ml.com/problem/Linear%20Regression%20Using%20Normal%20Equation) | [Solution](Solutions/Linear-Regression-Using-Normal-Equation.py) |
 | Linear Regression Using Gradient Descent | [Challenge](https://www.deep-ml.com/problem/Linear%20Regression%20Using%20Gradient%20Descent) | [Solution](Solutions/Linear-Regression-Using-Gradient-Descent.py) | 
 | Feature Scaling Implementation | [Challenge](https://www.deep-ml.com/problem/Feature%20Scaling%20Implementation) | [Solution](Solutions/Feature-Scaling-Implementation.py) | 
+Transpose of a Matrix | [Challenge](https://www.deep-ml.com/problem/Transpose%20of%20a%20Matrix) | [Solution](Solutions/Transpose-of-a-Matrix.py) | 
