@@ -13,6 +13,5 @@ This repository contains my solutions to various machine learning challenges hos
 | Linear Regression Using Gradient Descent | [Challenge](https://www.deep-ml.com/problem/Linear%20Regression%20Using%20Gradient%20Descent) | [Solution](Solutions/Linear-Regression-Using-Gradient-Descent.py) | 
 | Feature Scaling Implementation | [Challenge](https://www.deep-ml.com/problem/Feature%20Scaling%20Implementation) | [Solution](Solutions/Feature-Scaling-Implementation.py) | 
 Transpose of a Matrix | [Challenge](https://www.deep-ml.com/problem/Transpose%20of%20a%20Matrix) | [Solution](Solutions/Transpose-of-a-Matrix.py) | 
-
 Sigmoid Activation Function Understanding | [Challenge](https://www.deep-ml.com/problem/Sigmoid%20Activation%20Function%20Understanding) | [Solution](Solutions/Sigmoid-Activation-Function-Understanding.py) | 
 
