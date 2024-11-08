@@ -16,5 +16,6 @@ Transpose of a Matrix | [Challenge](https://www.deep-ml.com/problem/Transpose%20
 Sigmoid Activation Function Understanding | [Challenge](https://www.deep-ml.com/problem/Sigmoid%20Activation%20Function%20Understanding) | [Solution](Solutions/Sigmoid-Activation-Function-Understanding.py) | 
 Softmax Activation Function Implementation | [Challenge](https://www.deep-ml.com/problem/Softmax%20Activation%20Function%20Implementation) | [Solution](Solutions/Softmax-Activation-Function-Implementation.py) | 
 Single Neuron | [Challenge](https://www.deep-ml.com/problem/Single%20Neuron) | [Solution](Solutions/Single-Neuron.py) | 
+Implementation of Log Softmax Function | [Challenge](https://www.deep-ml.com/problem/Log%20Softmax) | [Solution](Solutions/Implementation-of-Log-Softmax-Function.py) |
 
 
