@@ -18,4 +18,5 @@ Softmax Activation Function Implementation | [Challenge](https://www.deep-ml.com
 Single Neuron | [Challenge](https://www.deep-ml.com/problem/Single%20Neuron) | [Solution](Solutions/Single-Neuron.py) | 
 Implementation of Log Softmax Function | [Challenge](https://www.deep-ml.com/problem/Log%20Softmax) | [Solution](Solutions/Implementation-of-Log-Softmax-Function.py) |
 Calculate Accuracy Score | [Challenge](https://www.deep-ml.com/problem/Calculate%20Accuracy%20Score) | [Solution](Solutions/Calculate-Accuracy-Score.py) |
+Implement TF-IDF (Term Frequency-Inverse Document Frequency) | [Challenge](https://www.deep-ml.com/problems/60) | [Solution](Solutions/Implement-TF-IDF.py) |
 
